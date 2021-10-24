@@ -37,4 +37,4 @@ There are 1 notebooks in this repository for different purpose:
 
 ### Results <a name="results"></a>
 
-My results can be found [here]().  
+My results can be found [here](https://medium.com/@eslamelgourany/boston-airbnb-data-understanding-28b134809913).  

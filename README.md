@@ -11,7 +11,6 @@ Analyzing  AirBnB business and understand how it has grown over the years. I hav
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ### Installation <a name="installation"></a>
 - Download and install a recent version of Python Anaconda distribution.

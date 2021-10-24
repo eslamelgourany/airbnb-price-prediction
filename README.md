@@ -1,3 +1,8 @@
+
+
+![kisspng-airbnb-logo-coupon-privately-held-company-airbnb-logo-5b167f0c91db57 0436925715282009725974](https://user-images.githubusercontent.com/38785783/138585739-45b7c95e-069c-4d58-a194-149eebf1492f.png)
+
+
 # AirBnB_Analysis
 Analyzing  AirBnB business and understand how it has grown over the years. I have anlyzed the Airbnb Boston dataset from 2008 to 2016. The dataset has listings activities for hosts and reviews from guests who visited the city during that period. The dataset has 3585 distinct listings.
 

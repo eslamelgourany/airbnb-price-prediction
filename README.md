@@ -11,7 +11,7 @@ Analyzing  AirBnB business and understand how it has grown over the years. I hav
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ### Installation <a name="installation"></a>
-- Download and install a recent version of Python Anaconda distribution 
+- Download and install a recent version of Python Anaconda distribution.
 - The dataset is available on Kaggle and can be downloaded [here](https://www.kaggle.com/airbnb/boston)
 
 ### Project Motivation <a name="motivation"></a>
@@ -28,9 +28,10 @@ In this project , I am interested in answering various business questions and to
 There are 1 notebooks in this repository for different purpose:
 - The `Boston_AirBnB_Analysis.ipynb`: file analyzes different aspects of the AirBnB in Boston and answers the questions above.
 - The `data` folder has the cvs files used in this analysis
-  listings.csv: contains information about the listings and their location, as well as host information and guest fees, among other things.
-  calendar.csv: contains dates of availability and price
-  reviews.csv: review data for the listings. (will not be used in the analysis)
+1. listings.csv: contains information about the listings and their location, as well as host information and guest fees, among other things.
+2. calendar.csv: contains dates of availability and price
+3. reviews.csv: review data for the listings. (will not be used in the analysis)
+  
 
 ### Results <a name="results"></a>
 

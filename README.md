@@ -21,9 +21,9 @@ Analyzing  AirBnB business and understand how it has grown over the years. I hav
 In this project , I am interested in answering various business questions and to also use the data to create machine learning model that will be able to predict the price of the property.
 
 1. How are the prices affected by time?
-2. How are the listings distributed? Are there many shared rooms?
-3. The factors that influence the price of a property on Airbnb in Boston and how they relate.
-4. ML model to predict the price given this dataset
+2. How are the listings distributed across Boston?
+3. The factors that influence the price of a property on Airbnb in Boston.
+4. How efficient are we able to predict the price given this dataset?
 
 ### File Description <a name="files"></a>
 

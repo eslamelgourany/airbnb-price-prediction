@@ -37,4 +37,4 @@ There are 1 notebooks in this repository for different purpose:
 
 ### Results <a name="results"></a>
 
-My results can be found [here](https://medium.com/@eslamelgourany/boston-airbnb-data-understanding-28b134809913).  
+My results can be found [here](https://github.com/eslamelgourany/airbnb-price-prediction/blob/main/Boston_AirBnB_Analysis.ipynb).  
